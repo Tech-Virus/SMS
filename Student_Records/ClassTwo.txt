@@ -1,0 +1,5 @@
+Name = Huzaifa Noor
+Registration Number = 1301
+Class = 2
+City = Lahore
+

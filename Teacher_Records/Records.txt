@@ -1,0 +1,70 @@
+Name = Ahsan Azad
+Registration Number = f151391
+Class = BSSE
+City = Lahore
+Phone Number = 090078601
+Work Experience = 1year
+Subject = OOP
+
+Name = Ali Raza
+Registration Number = f151391
+Class = BSCS
+City = Karachi
+Phone Number = 090078601
+Work Experience = 3years
+Subject = OOP
+
+Name = Ahsan Azad
+Registration Number = 12345
+Class = 5th
+City = lahore
+Phone Number = 900000
+Work Experience = 2years
+Subject = 
+
+Name = w w
+Registration Number = w
+Class = w
+City = w
+Phone Number = 5
+Work Experience = 3
+Subject = Object oriented programming
+
+Name = Tariq Zia
+Registration Number = 123455
+Class = 4th
+City = karachi
+Phone Number = 09090000
+Work Experience = 4years
+Subject = Computer Networks
+
+Name = Safeer khan
+Registration Number = 12234
+Class = three
+City = Multan
+Phone Number = 090078601
+Work Experience = 5 years
+Subject = Graphis engineering
+Blood Group = B+
+CNIC = 2897891684589719
+
+Name = Naeem khan
+Registration Number = 131
+Class = 5
+City = Islamabad
+Phone Number = 0900078601
+Work Experience = 3 years
+Subject = Mathematics
+Blood Group = B+
+CNIC = 1233444444444444
+
+Name = ahsan azad
+Registration Number = 12345
+Class = Prep
+City = lahore
+Phone Number = 032455443
+Work Experience = 10
+Subject = programming
+Blood Group = b+
+CNIC = 2345
+

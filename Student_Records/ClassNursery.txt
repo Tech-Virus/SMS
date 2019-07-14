@@ -1,0 +1,10 @@
+Name = Safwan Sandhu
+Registration Number = 123456
+Class = nursery
+City = Kasur
+
+Name = kaleem malik
+Registration Number = 245
+Class = nursery
+City = lahore
+

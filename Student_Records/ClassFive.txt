@@ -1,0 +1,10 @@
+Name = Ahsan Azad
+Registration Number = F151391
+Class = five
+City = lahore
+
+Name = Saeed Ahmad
+Registration Number = f128989
+Class = 5
+City = Lahore
+

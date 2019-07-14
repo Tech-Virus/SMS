@@ -1,0 +1,10 @@
+Name = Ahsan Azad
+Registration Number = 123
+Class = 3
+City = lahore
+
+Name = Anas Tariq
+Registration Number = 12234123
+Class = 3
+City = Karachi
+

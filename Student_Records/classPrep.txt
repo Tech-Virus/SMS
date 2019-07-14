@@ -1,0 +1,5 @@
+Name = Nasir Abbas
+Registration Number = 1245
+Class = prep
+City = lahore
+

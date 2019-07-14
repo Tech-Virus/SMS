@@ -1,0 +1,15 @@
+Name = Ameer Hamza
+Registration Number = 101
+Class = one
+City = lahore
+
+Name = Mashhood Tehami
+Registration Number = 104
+Class = one
+City = lahore
+
+Name = Zubair Zia
+Registration Number = 1321
+Class = 1
+City = Mansehra
+

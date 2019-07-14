@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528352168 source:c:\users\chahs_000\desktop\block\school_managment_system\main.cpp
+	<iostream>
+	<fstream>
+
