@@ -594,7 +594,7 @@ int main()
     	 choice002 = st -> studentDisplayPanel();
 		 
 	//______________________________conditional statment for student options__________________________
-		 if(choice002 == 1)
+	if(choice002 == 1)
     	 {
     	 	system("cls");
     	 	st -> getStudentData();
